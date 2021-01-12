@@ -1,4 +1,5 @@
 // 冒泡排序：https://www.cxyxiaowu.com/5163.html
+// https://blog.csdn.net/guoweimelon/article/details/50902597
 #include <stdio.h>
 void bubble_sort(int arr[],int length){
     int i,j,temp;
